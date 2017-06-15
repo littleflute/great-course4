@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Lecture25.mp3";		
+f[2]	= "02 Lecture26.mp3";		
+f[3]	= "03 Lecture27.mp3";		
+f[4]	= "04 Lecture28.mp3";		
+f[5]	= "05 Lecture29.mp3";		
+f[6]	= "06 Lecture30.mp3";		
+f[7]	= "07 Lecture31.mp3";		
+f[8]	= "08 Lecture32.mp3";		
+f[9]	= "09 Lecture33.mp3";		
+f[10]	= "10 Lecture34.mp3";		
+f[11]	= "11 Lecture35.mp3";		
+f[12]	= "12 Lecture36.mp3";		
